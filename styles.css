@@ -1,0 +1,18 @@
+nav {
+    display: block;
+    float: right;
+}
+
+li {
+    display: list-item;
+    float: left;
+    list-style-image: none;
+    list-style-position: outside;
+    list-style-type: none;
+    text-align: left;
+}
+.branding {
+    display: block;
+    float: left;
+    
+}
